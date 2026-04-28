@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+openai
+tiktoken
+python-dotenv
+python-docx
+openpyxl
