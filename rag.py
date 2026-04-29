@@ -12,6 +12,8 @@ import os
 
 load_dotenv()
 
+api_key = os.getenv("OPENAI_API_KEY")
+
 # Load doc
 def read_docx(file_path):
     doc = Document(file_path)

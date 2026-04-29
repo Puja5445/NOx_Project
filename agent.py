@@ -4,6 +4,7 @@ from langgraph.graph import StateGraph, END
 from rag import get_rag_answer
 from ml_model import predict_nox
 
+
 # State
 class State(TypedDict):
     input: str
